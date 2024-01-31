@@ -52,11 +52,11 @@ Material:
     - _QueueOffset: 0
     - _Speed: 0.1
     - _TilingControl: 10.05
-    - _intersectionOffsetControl: 0.58
+    - _intersectionOffsetControl: 0.8
     - _intersectionThickness: 0.597
     m_Colors:
     - _BarrierColor: {r: 0.9098039, g: 2.9960785, b: 0, a: 0}
-    - _Emission_Color: {r: 0, g: 2.6397188, b: 4.237095, a: 0}
+    - _Emission_Color: {r: 0, g: 3.4833233, b: 5.5908804, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &8779311879054140531
 MonoBehaviour:
